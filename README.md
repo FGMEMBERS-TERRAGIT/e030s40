@@ -1,4 +1,4 @@
-FG Tile |  e030s40  Terrain for FGMEMBERS-TerraGIT
+FG Tile |  e030s40  Objects for FGMEMBERS-TerraGIT
 ---------------------------------------------
 
 This repository contains Objects for FlightGear to be distributed with FGMEMBERS-TERRAGIT.
@@ -16,7 +16,7 @@ This repository objects could originate from several sources, among which the fo
 
 :copyright: 2016, Israel Hernandez (IAHM-COL) <br>
 :copyright: 2016, Peter Brendt (Jabberwocky)  <br>
-:copyright: 2016, Sharath Mahadevan (SHM) - Custom Landclasses <br>
+:copyright: 2016, Sharath Mahadevan (SHM)<br>
 :copyright: 2016, J. Maverick<br>
 :copyright: 2016, Martin Herweg (D-LASER)<br>
 :copyright: 2016, Terrasync's FlightGear Scenery Database objects authors.
